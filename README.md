@@ -42,25 +42,6 @@ The query is embedded and compared against the vector database to retrieve the m
 The top results are passed to GPT-4o-mini, which composes a natural, coherent answer.
 The answer is spoken back using TTS, enabling full voice-in → voice-out recall.
 
-┌──────────────┐
-│ Laptop webcam│
-│ + microphone │
-└──────┬───────┘
-       │ OpenCV / PyAudio
-       ▼
-[ Capture stream in memory ]
-       │ (2 minutes)
-       ▼
-[ Save temporary audio chunk ]
-       ▼
-Whisper → Transcript
-       ▼
-BART/T5 → Summary
-       ▼
-Store {timestamp, transcript, summary}
-       ▼
-Serve via FastAPI /ask endpoint (RAG on summaries)
-
 - Tech Stack
 Frontend / UI -	Flask + Vanilla JS (Voice recording & playback)
 Video / Audio Capture -	OpenCV · SoundDevice · ffmpeg-python
