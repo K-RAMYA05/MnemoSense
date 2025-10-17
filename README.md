@@ -99,7 +99,7 @@ Then open http://localhost:5005 — click 🎙️, speak your query, and MnemoSe
 - Integration with biosensors for emotion and stress inference.
 - Personalized long-term memory graph for caregivers and clinicians.
 
-- Acknowledgments:
+Acknowledgments:
 Developed as part of Good Vibes Only! — An AI/ML Buildathon and Networking Event (#LATechWeek), driven by the vision to build AI for accessibility.
 MnemoSense is inspired by the mission to restore awareness, autonomy, and dignity to those living with memory loss.
 Built with ❤️ using open-source AI, signal processing, and human-centered design.
