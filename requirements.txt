@@ -1,0 +1,16 @@
+whisper
+numpy
+sounddevice
+soundfile
+PyYAML
+sentence-transformers>=2.2.2
+transformers>=4.43.0
+pydub
+regex
+tqdm
+Flask>=3.0.0
+opencv-python
+pillow
+requests
+timm
+ollama>=0.3.0
