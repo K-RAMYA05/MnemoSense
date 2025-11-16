@@ -1,7 +1,7 @@
-Name: Ramya Krishnan
+Name: Ramya Krishnan</br>
 E-mail: kramya.rk01@gmail.com / ramyakri@usc.edu</br>
 
-Name: Vineetha Vallish Kumar 
+Name: Vineetha Vallish Kumar </br>
 E-mail: vineetha@usc.edu</br>
 
 # MnemoSense: An Artificial Hippocampus for Dementia Patients
