@@ -9,6 +9,8 @@ MnemoSense is a cognitive-assistive AI system designed to support individuals wi
 
 A wearable device captures short segments of video and audio, analyzes the surroundings, and transcribes only the meaningful content — not the raw footage. It then creates rich contextual summaries that include what happened, who was involved, and what was discussed.
 
+Link: https://huggingface.co/spaces/MnemoSenseLab/MnemoSense
+
 
 ## When the user speaks to it, MnemoSense can:
 
